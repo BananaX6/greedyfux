@@ -1,0 +1,74 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",TV1
+#EXTINF:-1 tvg-id="TV2"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png",TV3
+#EXTINF:-1 tvg-id="Astro Ria"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png",Astro Ria
+#EXTINF:-1 tvg-id="Astro Prima" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Astro Prima
+#EXTINF:-1 tvg-id="Astro Oasis"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png",Astro Oasis
+#EXTINF:-1 tvg-id="Astro Warna" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_300.png",Astro Warna
+#EXTINF:-1 tvg-id="Astro Citra"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png",Astro Citra
+#EXTINF:-1 tvg-id="Go Shop GAAYA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png",Go Shop GAAYA
+#EXTINF:-1 tvg-id="ART Variety"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/129_300.png",ART Variety
+#EXTINF:-1 tvg-id="NJOI TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/140_300.png",NJOI TV
+#EXTINF:-1 tvg-id="Astro Vaanavil"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
+#EXTINF:-1 tvg-id="Astro Vellithirai" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/202_300.png",Astro Vellithirai
+#EXTINF:-1 tvg-id="Makkal TV"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png",Makkal TV
+#EXTINF:-1 tvg-id="SUN Music" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/212_300.png",SUN Music
+#EXTINF:-1 tvg-id="Chutti TV"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/213_300.png",Chutti TV
+#EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/231_300.png",Astro Vinmeen HD
+#EXTINF:-1 tvg-id="Star Vijay"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/232_300.png",Star Vijay
+#EXTINF:-1 tvg-id="SUN TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/234_300.png",SUN TV
+#EXTINF:-1 tvg-id="iQIYI"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png",iQIYI
+#EXTINF:-1 tvg-id="Astro Xiao Tai Yang" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/304_300.png",Astro Xiao Tai Yang
+#EXTINF:-1 tvg-id="TVB Classic"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/305_300.png",TVB Classic
+#EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png",Astro AEC
+#EXTINF:-1 tvg-id="Astro Shuang Xing"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png",Astro Shuang Xing
+#EXTINF:-1 tvg-id="Astro Quan Jia HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png",Astro Quan Jia HD
+#EXTINF:-1 tvg-id="Celestial Movies"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/309_300.png",Celestial Movies
+#EXTINF:-1 tvg-id="TVB Jade" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/310_300.png",TVB Jade
+#EXTINF:-1 tvg-id="CTI Asia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/316_300.png",CTI Asia
+#EXTINF:-1 tvg-id="TVB Xing He" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/319_300.png",TVB Xing He
+#EXTINF:-1 tvg-id="TVBS Asia"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/320_300.png",TVBS Asia
+#EXTINF:-1 tvg-id="TVBS News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png",TVBS News
+#EXTINF:-1 tvg-id="Astro Hua Hee Dai"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png",Astro Hua Hee Dai
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png",KBS World
+#EXTINF:-1 tvg-id="HBO"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/411_300.png",HBO
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_300.png",CINEMAX
+#EXTINF:-1 tvg-id="Fox Movies"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413_300.png",Fox Movies
+#EXTINF:-1 tvg-id="Astro Awani" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png",Astro Awani
+#EXTINF:-1 tvg-id="CGTN"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/503_300.png",CGTN
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png",BBC World News
+#EXTINF:-1 tvg-id="Al Jazeera English"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/513_300.png",Al Jazeera English
+#EXTINF:-1 tvg-id="CNBC Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/516_300.png",CNBC Asia
+#EXTINF:-1 tvg-id="Bloomberg Television"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/517_300.png",Bloomberg Television
+#EXTINF:-1 tvg-id="ABC Australia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/518_300.png",ABC Australia
+#EXTINF:-1 tvg-id="Nat Geo Wild"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png",Nat Geo Wild
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png",Discovery Science
+#EXTINF:-1 tvg-id="History"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/555_300.png",History
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png",Animal Planet
+#EXTINF:-1 tvg-id="Astro Tutor TV UPSR"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/601_300.png",Astro Tutor TV UPSR
+#EXTINF:-1 tvg-id="Astro Tutor TV PT3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/602_300.png",Astro Tutor TV PT3
+#EXTINF:-1 tvg-id="Astro Tutor TV SPM"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/603_300.png",Astro Tutor TV SPM
+#EXTINF:-1 tvg-id="Astro TVIQ" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/610_300.png",Astro TVIQ
+#EXTINF:-1 tvg-id="Astro Ceria"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png",Astro Ceria
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/615_300.png",Cartoon Network
+#EXTINF:-1 tvg-id="Nickelodeon"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/616_300.png",Nickelodeon
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/618_300.png",BabyTV
+#EXTINF:-1 tvg-id="Boomerang"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/619_300.png",Boomerang
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/701_300.png",AXN
+#EXTINF:-1 tvg-id="TLC"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/707_300.png",TLC
+#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/716_300.png",DMAX
+#EXTINF:-1 tvg-id="Animax"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png",Animax
+#EXTINF:-1 tvg-id="Astro Arena" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802_300.png",Astro Arena
+#EXTINF:-1 tvg-id="Astro SuperSport"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport
+#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
+#EXTINF:-1 tvg-id="Astro SuperSport 2"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
+#EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
+#EXTINF:-1 tvg-id="Astro SuperSport 3"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
+#EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
+#EXTINF:-1 tvg-id="FOX Sports"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/815_300.png",FOX Sports
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_300.png",FOX Sports 2
+#EXTINF:-1 tvg-id="FOX Sports 3"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/817_300.png",FOX Sports 3
+#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/820_300.png",Eurosport
+#EXTINF:-1 tvg-id="WWE Network"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/821_300.png",WWE Network
